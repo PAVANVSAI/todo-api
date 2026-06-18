@@ -37,4 +37,9 @@ http://localhost:8000/docs
 | DELETE | /tasks/delete/{id} | Delete a task |
 
 ## Author
-Your Name — VIT Chennai, B.Tech CSE
+PAVAN VENKATA SAI M — VIT Chennai, B.Tech CSE
+## Live API Test
+https://todo-api-xxxx.onrender.com/docs
+## Live API Result
+# Refresh the web and click on Pretty Print for better Result
+https://todo-api-xxxx.onrender.com 
